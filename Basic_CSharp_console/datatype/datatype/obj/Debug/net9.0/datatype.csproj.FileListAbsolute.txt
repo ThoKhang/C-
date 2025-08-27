@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\datatype\datatype\bin\Debug\net9.0\datatype.exe
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\datatype\datatype\bin\Debug\net9.0\datatype.deps.json
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\datatype\datatype\bin\Debug\net9.0\datatype.runtimeconfig.json
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\datatype\datatype\bin\Debug\net9.0\datatype.dll
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\datatype\datatype\bin\Debug\net9.0\datatype.pdb
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\datatype\datatype\obj\Debug\net9.0\datatype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\datatype\datatype\obj\Debug\net9.0\datatype.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\datatype\datatype\obj\Debug\net9.0\datatype.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\datatype\datatype\obj\Debug\net9.0\datatype.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\datatype\datatype\obj\Debug\net9.0\datatype.sourcelink.json
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\datatype\datatype\obj\Debug\net9.0\datatype.dll
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\datatype\datatype\obj\Debug\net9.0\refint\datatype.dll
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\datatype\datatype\obj\Debug\net9.0\datatype.pdb
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\datatype\datatype\obj\Debug\net9.0\datatype.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\datatype\datatype\obj\Debug\net9.0\ref\datatype.dll
