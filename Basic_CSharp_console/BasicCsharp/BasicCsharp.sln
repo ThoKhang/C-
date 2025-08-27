@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicCsharp", "BasicCsharp\BasicCsharp.csproj", "{440EEBE2-3148-4FAA-A796-04AD84C0C94D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForWhile", "ForWhile\ForWhile.csproj", "{CC75E189-C703-41B2-A53D-3D6C2C68ADD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{90DE2C35-AF0E-4303-9357-F27C17B3E8B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{CC75E189-C703-41B2-A53D-3D6C2C68ADD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC75E189-C703-41B2-A53D-3D6C2C68ADD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC75E189-C703-41B2-A53D-3D6C2C68ADD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90DE2C35-AF0E-4303-9357-F27C17B3E8B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90DE2C35-AF0E-4303-9357-F27C17B3E8B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90DE2C35-AF0E-4303-9357-F27C17B3E8B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90DE2C35-AF0E-4303-9357-F27C17B3E8B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

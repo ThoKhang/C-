@@ -1,0 +1,7 @@
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\Array\bin\Debug\Array.exe.config
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\Array\bin\Debug\Array.exe
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\Array\bin\Debug\Array.pdb
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\Array\obj\Debug\Array.exe
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\Array\obj\Debug\Array.pdb
