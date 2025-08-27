@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\boolAndLogicDatatype\boolAndLogicDatatype\bin\Debug\net9.0\boolAndLogicDatatype.exe
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\boolAndLogicDatatype\boolAndLogicDatatype\bin\Debug\net9.0\boolAndLogicDatatype.deps.json
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\boolAndLogicDatatype\boolAndLogicDatatype\bin\Debug\net9.0\boolAndLogicDatatype.runtimeconfig.json
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\boolAndLogicDatatype\boolAndLogicDatatype\bin\Debug\net9.0\boolAndLogicDatatype.dll
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\boolAndLogicDatatype\boolAndLogicDatatype\bin\Debug\net9.0\boolAndLogicDatatype.pdb
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\boolAndLogicDatatype\boolAndLogicDatatype\obj\Debug\net9.0\boolAndLogicDatatype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\boolAndLogicDatatype\boolAndLogicDatatype\obj\Debug\net9.0\boolAndLogicDatatype.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\boolAndLogicDatatype\boolAndLogicDatatype\obj\Debug\net9.0\boolAndLogicDatatype.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\boolAndLogicDatatype\boolAndLogicDatatype\obj\Debug\net9.0\boolAndLogicDatatype.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\boolAndLogicDatatype\boolAndLogicDatatype\obj\Debug\net9.0\boolAndLogicDatatype.sourcelink.json
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\boolAndLogicDatatype\boolAndLogicDatatype\obj\Debug\net9.0\boolAndLogicDatatype.dll
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\boolAndLogicDatatype\boolAndLogicDatatype\obj\Debug\net9.0\refint\boolAndLogicDatatype.dll
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\boolAndLogicDatatype\boolAndLogicDatatype\obj\Debug\net9.0\boolAndLogicDatatype.pdb
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\boolAndLogicDatatype\boolAndLogicDatatype\obj\Debug\net9.0\boolAndLogicDatatype.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\boolAndLogicDatatype\boolAndLogicDatatype\obj\Debug\net9.0\ref\boolAndLogicDatatype.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\switchcaseInCsharp\switchcaseInCsharp\bin\Debug\net9.0\switchcaseInCsharp.exe
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\switchcaseInCsharp\switchcaseInCsharp\bin\Debug\net9.0\switchcaseInCsharp.deps.json
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\switchcaseInCsharp\switchcaseInCsharp\bin\Debug\net9.0\switchcaseInCsharp.runtimeconfig.json
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\switchcaseInCsharp\switchcaseInCsharp\bin\Debug\net9.0\switchcaseInCsharp.dll
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\switchcaseInCsharp\switchcaseInCsharp\bin\Debug\net9.0\switchcaseInCsharp.pdb
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\switchcaseInCsharp\switchcaseInCsharp\obj\Debug\net9.0\switchcaseInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\switchcaseInCsharp\switchcaseInCsharp\obj\Debug\net9.0\switchcaseInCsharp.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\switchcaseInCsharp\switchcaseInCsharp\obj\Debug\net9.0\switchcaseInCsharp.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\switchcaseInCsharp\switchcaseInCsharp\obj\Debug\net9.0\switchcaseInCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\switchcaseInCsharp\switchcaseInCsharp\obj\Debug\net9.0\switchcaseInCsharp.sourcelink.json
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\switchcaseInCsharp\switchcaseInCsharp\obj\Debug\net9.0\switchcaseInCsharp.dll
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\switchcaseInCsharp\switchcaseInCsharp\obj\Debug\net9.0\refint\switchcaseInCsharp.dll
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\switchcaseInCsharp\switchcaseInCsharp\obj\Debug\net9.0\switchcaseInCsharp.pdb
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\switchcaseInCsharp\switchcaseInCsharp\obj\Debug\net9.0\switchcaseInCsharp.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\switchcaseInCsharp\switchcaseInCsharp\obj\Debug\net9.0\ref\switchcaseInCsharp.dll

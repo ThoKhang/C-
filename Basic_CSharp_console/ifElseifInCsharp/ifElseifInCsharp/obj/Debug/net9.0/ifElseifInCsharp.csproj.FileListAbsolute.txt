@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\ifElseifInCsharp\ifElseifInCsharp\obj\Debug\net9.0\ifElseifInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\ifElseifInCsharp\ifElseifInCsharp\obj\Debug\net9.0\ifElseifInCsharp.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\ifElseifInCsharp\ifElseifInCsharp\obj\Debug\net9.0\ifElseifInCsharp.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\ifElseifInCsharp\ifElseifInCsharp\obj\Debug\net9.0\ifElseifInCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\ifElseifInCsharp\ifElseifInCsharp\obj\Debug\net9.0\ifElseifInCsharp.sourcelink.json
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\ifElseifInCsharp\ifElseifInCsharp\bin\Debug\net9.0\ifElseifInCsharp.exe
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\ifElseifInCsharp\ifElseifInCsharp\bin\Debug\net9.0\ifElseifInCsharp.deps.json
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\ifElseifInCsharp\ifElseifInCsharp\bin\Debug\net9.0\ifElseifInCsharp.runtimeconfig.json
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\ifElseifInCsharp\ifElseifInCsharp\bin\Debug\net9.0\ifElseifInCsharp.dll
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\ifElseifInCsharp\ifElseifInCsharp\bin\Debug\net9.0\ifElseifInCsharp.pdb
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\ifElseifInCsharp\ifElseifInCsharp\obj\Debug\net9.0\ifElseifInCsharp.dll
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\ifElseifInCsharp\ifElseifInCsharp\obj\Debug\net9.0\refint\ifElseifInCsharp.dll
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\ifElseifInCsharp\ifElseifInCsharp\obj\Debug\net9.0\ifElseifInCsharp.pdb
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\ifElseifInCsharp\ifElseifInCsharp\obj\Debug\net9.0\ifElseifInCsharp.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\ifElseifInCsharp\ifElseifInCsharp\obj\Debug\net9.0\ref\ifElseifInCsharp.dll
