@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumInCsharp", "EnumInCshar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "struct", "struct\struct.csproj", "{8F31A6CB-6555-454C-BDAA-9E9DBCA68C85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPC#", "OOPC#\OOPC#.csproj", "{0C61AF71-0C93-42D7-8A4E-65F6F095B850}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{8F31A6CB-6555-454C-BDAA-9E9DBCA68C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F31A6CB-6555-454C-BDAA-9E9DBCA68C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F31A6CB-6555-454C-BDAA-9E9DBCA68C85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C61AF71-0C93-42D7-8A4E-65F6F095B850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C61AF71-0C93-42D7-8A4E-65F6F095B850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C61AF71-0C93-42D7-8A4E-65F6F095B850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C61AF71-0C93-42D7-8A4E-65F6F095B850}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
