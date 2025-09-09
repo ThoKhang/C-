@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\QUANLYUNGCUVIEN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE816F4-CEF6-4EC3-9948-FF9B787C7283}|QUANLYUNGCUVIEN\\QUANLYUNGCUVIEN.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c-\\basic_csharp_console\\basiccsharp\\quanlyungcuvien\\quanlyungcuvien\\listcandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE816F4-CEF6-4EC3-9948-FF9B787C7283}|QUANLYUNGCUVIEN\\QUANLYUNGCUVIEN.csproj|solutionrelative:quanlyungcuvien\\listcandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF54746-5E33-44D3-A93C-45AD7BBE6808}|QUANLYNHANSU\\QUANLYNHANSU.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c-\\basic_csharp_console\\basiccsharp\\quanlyungcuvien\\quanlynhansu\\danhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF54746-5E33-44D3-A93C-45AD7BBE6808}|QUANLYNHANSU\\QUANLYNHANSU.csproj|solutionrelative:quanlynhansu\\danhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF54746-5E33-44D3-A93C-45AD7BBE6808}|QUANLYNHANSU\\QUANLYNHANSU.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c-\\basic_csharp_console\\basiccsharp\\quanlyungcuvien\\quanlynhansu\\nhanvienbienche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF54746-5E33-44D3-A93C-45AD7BBE6808}|QUANLYNHANSU\\QUANLYNHANSU.csproj|solutionrelative:quanlynhansu\\nhanvienbienche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B814B4-CEE9-450F-83EE-CE98211FDCC0}|QUANLYNHANSU_INF\\QUANLYNHANSU_INF.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c-\\basic_csharp_console\\basiccsharp\\quanlyungcuvien\\quanlynhansu_inf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B814B4-CEE9-450F-83EE-CE98211FDCC0}|QUANLYNHANSU_INF\\QUANLYNHANSU_INF.csproj|solutionrelative:quanlynhansu_inf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE816F4-CEF6-4EC3-9948-FF9B787C7283}|QUANLYUNGCUVIEN\\QUANLYUNGCUVIEN.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c-\\basic_csharp_console\\basiccsharp\\quanlyungcuvien\\quanlyungcuvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE816F4-CEF6-4EC3-9948-FF9B787C7283}|QUANLYUNGCUVIEN\\QUANLYUNGCUVIEN.csproj|solutionrelative:quanlyungcuvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF54746-5E33-44D3-A93C-45AD7BBE6808}|QUANLYNHANSU\\QUANLYNHANSU.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c-\\basic_csharp_console\\basiccsharp\\quanlyungcuvien\\quanlynhansu\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF54746-5E33-44D3-A93C-45AD7BBE6808}|QUANLYNHANSU\\QUANLYNHANSU.csproj|solutionrelative:quanlynhansu\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF54746-5E33-44D3-A93C-45AD7BBE6808}|QUANLYNHANSU\\QUANLYNHANSU.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c-\\basic_csharp_console\\basiccsharp\\quanlyungcuvien\\quanlynhansu\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FCF54746-5E33-44D3-A93C-45AD7BBE6808}|QUANLYNHANSU\\QUANLYNHANSU.csproj|solutionrelative:quanlynhansu\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 269,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\QUANLYUNGCUVIEN\\QUANLYNHANSU_INF\\Program.cs",
+              "RelativeDocumentMoniker": "QUANLYNHANSU_INF\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\QUANLYUNGCUVIEN\\QUANLYNHANSU_INF\\Program.cs",
+              "RelativeToolTip": "QUANLYNHANSU_INF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:15:02.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\QUANLYUNGCUVIEN\\QUANLYUNGCUVIEN\\Program.cs",
+              "RelativeDocumentMoniker": "QUANLYUNGCUVIEN\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\QUANLYUNGCUVIEN\\QUANLYUNGCUVIEN\\Program.cs",
+              "RelativeToolTip": "QUANLYUNGCUVIEN\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:04:10.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LISTCANDIDATE.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\QUANLYUNGCUVIEN\\QUANLYUNGCUVIEN\\LISTCANDIDATE.cs",
+              "RelativeDocumentMoniker": "QUANLYUNGCUVIEN\\LISTCANDIDATE.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\QUANLYUNGCUVIEN\\QUANLYUNGCUVIEN\\LISTCANDIDATE.cs*",
+              "RelativeToolTip": "QUANLYUNGCUVIEN\\LISTCANDIDATE.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:04:07.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NHANVIEN.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\QUANLYUNGCUVIEN\\QUANLYNHANSU\\NHANVIEN.cs",
+              "RelativeDocumentMoniker": "QUANLYNHANSU\\NHANVIEN.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\QUANLYUNGCUVIEN\\QUANLYNHANSU\\NHANVIEN.cs",
+              "RelativeToolTip": "QUANLYNHANSU\\NHANVIEN.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAA2wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T08:52:25.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NHANVIENBIENCHE.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\QUANLYUNGCUVIEN\\QUANLYNHANSU\\NHANVIENBIENCHE.cs",
+              "RelativeDocumentMoniker": "QUANLYNHANSU\\NHANVIENBIENCHE.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\QUANLYUNGCUVIEN\\QUANLYNHANSU\\NHANVIENBIENCHE.cs",
+              "RelativeToolTip": "QUANLYNHANSU\\NHANVIENBIENCHE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T08:52:16.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DANHSACHNHANVIEN.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\QUANLYUNGCUVIEN\\QUANLYNHANSU\\DANHSACHNHANVIEN.cs",
+              "RelativeDocumentMoniker": "QUANLYNHANSU\\DANHSACHNHANVIEN.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\QUANLYUNGCUVIEN\\QUANLYNHANSU\\DANHSACHNHANVIEN.cs",
+              "RelativeToolTip": "QUANLYNHANSU\\DANHSACHNHANVIEN.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T08:52:03.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\QUANLYUNGCUVIEN\\QUANLYNHANSU\\App.config",
+              "RelativeDocumentMoniker": "QUANLYNHANSU\\App.config",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\QUANLYUNGCUVIEN\\QUANLYNHANSU\\App.config",
+              "RelativeToolTip": "QUANLYNHANSU\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-09T08:52:02.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 8,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
