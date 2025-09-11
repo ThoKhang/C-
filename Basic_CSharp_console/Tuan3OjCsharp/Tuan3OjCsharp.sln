@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuan3OjCsharp", "Tuan3OjCsharp\Tuan3OjCsharp.csproj", "{392A524E-9DCA-470C-8722-D984983623F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPmethod", "OOPmethod\OOPmethod.csproj", "{AAB5DACB-22D3-47D7-A294-1FBE2270A1BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{392A524E-9DCA-470C-8722-D984983623F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392A524E-9DCA-470C-8722-D984983623F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392A524E-9DCA-470C-8722-D984983623F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392A524E-9DCA-470C-8722-D984983623F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAB5DACB-22D3-47D7-A294-1FBE2270A1BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB5DACB-22D3-47D7-A294-1FBE2270A1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB5DACB-22D3-47D7-A294-1FBE2270A1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB5DACB-22D3-47D7-A294-1FBE2270A1BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
