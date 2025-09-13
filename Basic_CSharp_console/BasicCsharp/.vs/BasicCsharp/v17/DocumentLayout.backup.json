@@ -7,16 +7,32 @@
       "RelativeMoniker": "D:0:0:{6053DDF4-E270-4F2E-9179-76622FF25F0E}|StringAndStringbuilder\\StringAndStringbuilder.csproj|solutionrelative:stringandstringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F91BFD43-911B-409B-A697-7E294168CCEA}|MethodAndFunction\\MethodAndFunction.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\methodandfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F91BFD43-911B-409B-A697-7E294168CCEA}|MethodAndFunction\\MethodAndFunction.csproj|solutionrelative:methodandfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90DE2C35-AF0E-4303-9357-F27C17B3E8B3}|Array\\Array.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90DE2C35-AF0E-4303-9357-F27C17B3E8B3}|Array\\Array.csproj|solutionrelative:array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440EEBE2-3148-4FAA-A796-04AD84C0C94D}|BasicCsharp\\BasicCsharp.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\basiccsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440EEBE2-3148-4FAA-A796-04AD84C0C94D}|BasicCsharp\\BasicCsharp.csproj|solutionrelative:basiccsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7C746CA-A2F4-43AB-BD45-B0C04A17B60A}|basicOOP\\basicOOP.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\basicoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7C746CA-A2F4-43AB-BD45-B0C04A17B60A}|basicOOP\\basicOOP.csproj|solutionrelative:basicoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B7C746CA-A2F4-43AB-BD45-B0C04A17B60A}|basicOOP\\basicOOP.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\basicoop\\vukhi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7C746CA-A2F4-43AB-BD45-B0C04A17B60A}|basicOOP\\basicOOP.csproj|solutionrelative:basicoop\\vukhi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7C746CA-A2F4-43AB-BD45-B0C04A17B60A}|basicOOP\\basicOOP.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\basicoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7C746CA-A2F4-43AB-BD45-B0C04A17B60A}|basicOOP\\basicOOP.csproj|solutionrelative:basicoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD38E71B-9CCD-40FA-9BD7-54CEA7632DE5}|EnumInCsharp\\EnumInCsharp.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\enumincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38E71B-9CCD-40FA-9BD7-54CEA7632DE5}|EnumInCsharp\\EnumInCsharp.csproj|solutionrelative:enumincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC75E189-C703-41B2-A53D-3D6C2C68ADD6}|ForWhile\\ForWhile.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\forwhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC75E189-C703-41B2-A53D-3D6C2C68ADD6}|ForWhile\\ForWhile.csproj|solutionrelative:forwhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91BFD43-911B-409B-A697-7E294168CCEA}|MethodAndFunction\\MethodAndFunction.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\methodandfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91BFD43-911B-409B-A697-7E294168CCEA}|MethodAndFunction\\MethodAndFunction.csproj|solutionrelative:methodandfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C61AF71-0C93-42D7-8A4E-65F6F095B850}|OOPC#\\OOPC#.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\oopc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,22 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0C61AF71-0C93-42D7-8A4E-65F6F095B850}|OOPC#\\OOPC#.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\oopc#\\vukhi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C61AF71-0C93-42D7-8A4E-65F6F095B850}|OOPC#\\OOPC#.csproj|solutionrelative:oopc#\\vukhi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC75E189-C703-41B2-A53D-3D6C2C68ADD6}|ForWhile\\ForWhile.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\forwhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC75E189-C703-41B2-A53D-3D6C2C68ADD6}|ForWhile\\ForWhile.csproj|solutionrelative:forwhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{440EEBE2-3148-4FAA-A796-04AD84C0C94D}|BasicCsharp\\BasicCsharp.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\basiccsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{440EEBE2-3148-4FAA-A796-04AD84C0C94D}|BasicCsharp\\BasicCsharp.csproj|solutionrelative:basiccsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD38E71B-9CCD-40FA-9BD7-54CEA7632DE5}|EnumInCsharp\\EnumInCsharp.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\enumincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD38E71B-9CCD-40FA-9BD7-54CEA7632DE5}|EnumInCsharp\\EnumInCsharp.csproj|solutionrelative:enumincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90DE2C35-AF0E-4303-9357-F27C17B3E8B3}|Array\\Array.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90DE2C35-AF0E-4303-9357-F27C17B3E8B3}|Array\\Array.csproj|solutionrelative:array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,14 +94,14 @@
               "RelativeDocumentMoniker": "StringAndStringbuilder\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\StringAndStringbuilder\\Program.cs*",
               "RelativeToolTip": "StringAndStringbuilder\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwC4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-13T13:38:50.142Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\MethodAndFunction\\Program.cs",
               "RelativeDocumentMoniker": "MethodAndFunction\\Program.cs",
@@ -109,19 +109,21 @@
               "RelativeToolTip": "MethodAndFunction\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T12:15:54.418Z"
+              "WhenOpened": "2025-09-13T12:15:54.418Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "VuKhi.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\basicOOP\\VuKhi.cs",
               "RelativeDocumentMoniker": "basicOOP\\VuKhi.cs",
               "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\basicOOP\\VuKhi.cs",
               "RelativeToolTip": "basicOOP\\VuKhi.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA2wBwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T14:16:48.678Z"
+              "WhenOpened": "2025-09-10T14:16:48.678Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -131,13 +133,14 @@
               "RelativeDocumentMoniker": "basicOOP\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\basicOOP\\Program.cs",
               "RelativeToolTip": "basicOOP\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T14:10:57.985Z"
+              "WhenOpened": "2025-09-10T14:10:57.985Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\OOPC#\\Program.cs",
               "RelativeDocumentMoniker": "OOPC#\\Program.cs",
@@ -145,11 +148,12 @@
               "RelativeToolTip": "OOPC#\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T01:28:15.627Z"
+              "WhenOpened": "2025-09-04T01:28:15.627Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "VuKhi.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\OOPC#\\VuKhi.cs",
               "RelativeDocumentMoniker": "OOPC#\\VuKhi.cs",
@@ -161,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\struct\\Program.cs",
               "RelativeDocumentMoniker": "struct\\Program.cs",
@@ -173,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\EnumInCsharp\\Program.cs",
               "RelativeDocumentMoniker": "EnumInCsharp\\Program.cs",
@@ -181,23 +185,25 @@
               "RelativeToolTip": "EnumInCsharp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T01:44:37.592Z"
+              "WhenOpened": "2025-08-28T01:44:37.592Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\Array\\Program.cs",
               "RelativeDocumentMoniker": "Array\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\Array\\Program.cs",
               "RelativeToolTip": "Array\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwB8AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwB8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T16:00:22.654Z"
+              "WhenOpened": "2025-08-27T16:00:22.654Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\ForWhile\\Program.cs",
               "RelativeDocumentMoniker": "ForWhile\\Program.cs",
@@ -205,11 +211,12 @@
               "RelativeToolTip": "ForWhile\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T15:45:30.794Z"
+              "WhenOpened": "2025-08-27T15:45:30.794Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\BasicCsharp\\Program.cs",
               "RelativeDocumentMoniker": "BasicCsharp\\Program.cs",
@@ -217,7 +224,8 @@
               "RelativeToolTip": "BasicCsharp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T15:39:11.638Z"
+              "WhenOpened": "2025-08-27T15:39:11.638Z",
+              "EditorCaption": ""
             }
           ]
         }
