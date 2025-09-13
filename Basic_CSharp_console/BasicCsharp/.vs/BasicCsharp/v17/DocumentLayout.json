@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6053DDF4-E270-4F2E-9179-76622FF25F0E}|StringAndStringbuilder\\StringAndStringbuilder.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c-\\basic_csharp_console\\basiccsharp\\stringandstringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6053DDF4-E270-4F2E-9179-76622FF25F0E}|StringAndStringbuilder\\StringAndStringbuilder.csproj|solutionrelative:stringandstringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F91BFD43-911B-409B-A697-7E294168CCEA}|MethodAndFunction\\MethodAndFunction.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c-\\basic_csharp_console\\basiccsharp\\methodandfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F91BFD43-911B-409B-A697-7E294168CCEA}|MethodAndFunction\\MethodAndFunction.csproj|solutionrelative:methodandfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7C746CA-A2F4-43AB-BD45-B0C04A17B60A}|basicOOP\\basicOOP.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c-\\basic_csharp_console\\basiccsharp\\basicoop\\vukhi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7C746CA-A2F4-43AB-BD45-B0C04A17B60A}|basicOOP\\basicOOP.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\basicoop\\vukhi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7C746CA-A2F4-43AB-BD45-B0C04A17B60A}|basicOOP\\basicOOP.csproj|solutionrelative:basicoop\\vukhi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -86,6 +90,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\StringAndStringbuilder\\Program.cs",
+              "RelativeDocumentMoniker": "StringAndStringbuilder\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\StringAndStringbuilder\\Program.cs",
+              "RelativeToolTip": "StringAndStringbuilder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T13:38:50.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\MethodAndFunction\\Program.cs",
               "RelativeDocumentMoniker": "MethodAndFunction\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\MethodAndFunction\\Program.cs",
@@ -97,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "VuKhi.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\basicOOP\\VuKhi.cs",
               "RelativeDocumentMoniker": "basicOOP\\VuKhi.cs",
@@ -105,12 +122,11 @@
               "RelativeToolTip": "basicOOP\\VuKhi.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAA2wBwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T14:16:48.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T14:16:48.678Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\basicOOP\\Program.cs",
               "RelativeDocumentMoniker": "basicOOP\\Program.cs",
@@ -122,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\OOPC#\\Program.cs",
               "RelativeDocumentMoniker": "OOPC#\\Program.cs",
@@ -134,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "VuKhi.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\OOPC#\\VuKhi.cs",
               "RelativeDocumentMoniker": "OOPC#\\VuKhi.cs",
@@ -146,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\struct\\Program.cs",
               "RelativeDocumentMoniker": "struct\\Program.cs",
@@ -158,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\EnumInCsharp\\Program.cs",
               "RelativeDocumentMoniker": "EnumInCsharp\\Program.cs",
@@ -170,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\Array\\Program.cs",
               "RelativeDocumentMoniker": "Array\\Program.cs",
@@ -182,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\ForWhile\\Program.cs",
               "RelativeDocumentMoniker": "ForWhile\\Program.cs",
@@ -194,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\BasicCsharp\\Program.cs",
               "RelativeDocumentMoniker": "BasicCsharp\\Program.cs",

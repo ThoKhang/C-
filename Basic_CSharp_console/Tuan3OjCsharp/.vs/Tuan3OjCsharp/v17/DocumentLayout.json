@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{AAB5DACB-22D3-47D7-A294-1FBE2270A1BB}|OOPmethod\\OOPmethod.csproj|solutionrelative:oopmethod\\adonet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAB5DACB-22D3-47D7-A294-1FBE2270A1BB}|OOPmethod\\OOPmethod.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c-\\basic_csharp_console\\tuan3ojcsharp\\oopmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AAB5DACB-22D3-47D7-A294-1FBE2270A1BB}|OOPmethod\\OOPmethod.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\Tuan3OjCsharp\\oopmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAB5DACB-22D3-47D7-A294-1FBE2270A1BB}|OOPmethod\\OOPmethod.csproj|solutionrelative:oopmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{392A524E-9DCA-470C-8722-D984983623F8}|Tuan3OjCsharp\\Tuan3OjCsharp.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c-\\basic_csharp_console\\tuan3ojcsharp\\tuan3ojcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{392A524E-9DCA-470C-8722-D984983623F8}|Tuan3OjCsharp\\Tuan3OjCsharp.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\Tuan3OjCsharp\\tuan3ojcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{392A524E-9DCA-470C-8722-D984983623F8}|Tuan3OjCsharp\\Tuan3OjCsharp.csproj|solutionrelative:tuan3ojcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -73,8 +73,7 @@
               "RelativeToolTip": "OOPmethod\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T02:28:16.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-11T02:28:16.119Z"
             },
             {
               "$type": "Bookmark",
@@ -90,8 +89,7 @@
               "RelativeToolTip": "Tuan3OjCsharp\\Program.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAmwCQAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T01:34:16.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-11T01:34:16.247Z"
             }
           ]
         }
