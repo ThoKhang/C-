@@ -1,0 +1,7 @@
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\MethodAndFunction\bin\Debug\MethodAndFunction.exe.config
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\MethodAndFunction\bin\Debug\MethodAndFunction.exe
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\MethodAndFunction\bin\Debug\MethodAndFunction.pdb
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\MethodAndFunction\obj\Debug\MethodAndFunction.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\MethodAndFunction\obj\Debug\MethodAndFunction.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\MethodAndFunction\obj\Debug\MethodAndFunction.exe
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\MethodAndFunction\obj\Debug\MethodAndFunction.pdb
