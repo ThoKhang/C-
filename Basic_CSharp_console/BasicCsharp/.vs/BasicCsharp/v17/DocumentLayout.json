@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{6053DDF4-E270-4F2E-9179-76622FF25F0E}|StringAndStringbuilder\\StringAndStringbuilder.csproj|solutionrelative:stringandstringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F91BFD43-911B-409B-A697-7E294168CCEA}|MethodAndFunction\\MethodAndFunction.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c-\\basic_csharp_console\\basiccsharp\\methodandfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F91BFD43-911B-409B-A697-7E294168CCEA}|MethodAndFunction\\MethodAndFunction.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\methodandfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F91BFD43-911B-409B-A697-7E294168CCEA}|MethodAndFunction\\MethodAndFunction.csproj|solutionrelative:methodandfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -94,7 +94,7 @@
               "RelativeDocumentMoniker": "StringAndStringbuilder\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\StringAndStringbuilder\\Program.cs",
               "RelativeToolTip": "StringAndStringbuilder\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-13T13:38:50.142Z",
               "EditorCaption": ""
@@ -109,8 +109,7 @@
               "RelativeToolTip": "MethodAndFunction\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T12:15:54.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-13T12:15:54.418Z"
             },
             {
               "$type": "Document",
