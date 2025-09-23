@@ -15,10 +15,11 @@ namespace QUANLYBANHANG_ONLINE
         protected void Page_Load(object sender, EventArgs e)
         {
             XULYDULIEU xyly = new XULYDULIEU();
-            SqlParameter[] pr = new SqlParameter[1];
-            pr[0] = new SqlParameter("@MASANPHAM",DBNull.Value);
+            String madanhmuc = Request.QueryString.Get("MADANHMUC");
+            String SQL = "select * from tbSANPHAM WHERE MADANHMUC=" + madanhmuc;
+
             this.DataList1.RepeatColumns = 3;
-            this.DataList1.DataSource = xyly.getTable("psGetTableSANPHAM", pr);
+            this.DataList1.DataSource = xyly.getTable(SQL);
             this.DataList1.DataBind();
         }
         

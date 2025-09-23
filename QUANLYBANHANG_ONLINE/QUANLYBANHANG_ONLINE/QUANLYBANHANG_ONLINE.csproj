@@ -155,7 +155,7 @@
     <Compile Include="CHITIETSANPHAM.aspx.designer.cs">
       <DependentUpon>CHITIETSANPHAM.aspx</DependentUpon>
     </Compile>
-    <Compile Include="XULYDULIEU.cs" />
+    <Compile Include="App_Code\XULYDULIEU.cs" />
     <Compile Include="DANHSACHSANPHAM.aspx.cs">
       <DependentUpon>DANHSACHSANPHAM.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -183,7 +183,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Code\" />
     <Folder Include="App_Data\" />
   </ItemGroup>
   <PropertyGroup>

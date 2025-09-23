@@ -91,10 +91,9 @@
          <ul class="left_menu">
             <asp:Repeater ID="Repeater1" runat="server">
                 <ItemTemplate>
-                    <li class='<%# Convert.ToInt32(Eval("autoincrement"))%2==0?"odd":"even" %>'><a></a></li>
+                    <li class='<%# Convert.ToInt32(Eval("autoincrement"))%2==0?"odd":"even" %>'><a href ="DANHSACHSANPHAM.aspx?MADANHMUC=<%# Eval("MADANHMUC") %>"><%#Eval("TENDANHMUC")%></a></li>
                 </ItemTemplate>
             </asp:Repeater>
-         <li class="even"><a href="#">Motherboards</a></li>
          </ul>
          <div class="title_box">Special Products</div>
          <div class="border_box">
