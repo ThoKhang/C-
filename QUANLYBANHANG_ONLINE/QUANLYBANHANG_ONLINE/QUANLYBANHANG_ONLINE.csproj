@@ -68,9 +68,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="blank.gif" />
+    <Content Include="CHITIETSANPHAM.aspx" />
     <Content Include="contact.html" />
     <Content Include="CSS\iecss.css" />
     <Content Include="CSS\style.css" />
+    <Content Include="DANHSACHSANPHAM.aspx" />
     <Content Include="details.html" />
     <Content Include="iecss.css" />
     <Content Include="iepngfix.htc" />
@@ -146,8 +148,24 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CHITIETSANPHAM.aspx.cs">
+      <DependentUpon>CHITIETSANPHAM.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CHITIETSANPHAM.aspx.designer.cs">
+      <DependentUpon>CHITIETSANPHAM.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="XULYDULIEU.cs" />
+    <Compile Include="DANHSACHSANPHAM.aspx.cs">
+      <DependentUpon>DANHSACHSANPHAM.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DANHSACHSANPHAM.aspx.designer.cs">
+      <DependentUpon>DANHSACHSANPHAM.aspx</DependentUpon>
+    </Compile>
     <Compile Include="MasterPageUser.Master.cs">
       <DependentUpon>MasterPageUser.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="MasterPageUser.Master.designer.cs">
       <DependentUpon>MasterPageUser.Master</DependentUpon>

@@ -89,17 +89,11 @@
          <div class="left_content">
          <div class="title_box">Categories</div>
          <ul class="left_menu">
-         <li class="odd"><a href="#">Processors</a></li>
-         <li class="even"><a href="#">Motherboards</a></li>
-         <li class="odd"><a href="#">Desktops</a></li>
-         <li class="even"><a href="#">Laptops &amp; Notebooks</a></li>
-         <li class="odd"><a href="#">Processors</a></li>
-         <li class="even"><a href="#">Motherboards</a></li>
-         <li class="odd"><a href="#">Processors</a></li>
-         <li class="even"><a href="#">Motherboards</a></li>
-         <li class="odd"><a href="#">Desktops</a></li>
-         <li class="even"><a href="#">Laptops &amp; Notebooks</a></li>
-         <li class="odd"><a href="#">Processors</a></li>
+            <asp:Repeater ID="Repeater1" runat="server">
+                <ItemTemplate>
+                    <li class='<%# Convert.ToInt32(Eval("autoincrement"))%2==0?"odd":"even" %>'><a></a></li>
+                </ItemTemplate>
+            </asp:Repeater>
          <li class="even"><a href="#">Motherboards</a></li>
          </ul>
          <div class="title_box">Special Products</div>
