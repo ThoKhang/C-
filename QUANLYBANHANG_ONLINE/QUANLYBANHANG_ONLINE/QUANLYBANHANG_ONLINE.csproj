@@ -144,10 +144,14 @@
     <Content Include="index.html" />
     <Content Include="js\boxOver.js" />
     <Content Include="js\windowopen.js" />
+    <Content Include="pageGIOHANG.aspx" />
+    <Content Include="pageLOGIN.aspx" />
     <Content Include="style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="App_Code\ITEM.cs" />
+    <Compile Include="App_Code\CART.cs" />
     <Compile Include="CHITIETSANPHAM.aspx.cs">
       <DependentUpon>CHITIETSANPHAM.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -169,6 +173,20 @@
     </Compile>
     <Compile Include="MasterPageUser.Master.designer.cs">
       <DependentUpon>MasterPageUser.Master</DependentUpon>
+    </Compile>
+    <Compile Include="pageGIOHANG.aspx.cs">
+      <DependentUpon>pageGIOHANG.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pageGIOHANG.aspx.designer.cs">
+      <DependentUpon>pageGIOHANG.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pageLOGIN.aspx.cs">
+      <DependentUpon>pageLOGIN.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pageLOGIN.aspx.designer.cs">
+      <DependentUpon>pageLOGIN.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

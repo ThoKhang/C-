@@ -10,7 +10,7 @@
                  <div class="top_prod_box"></div>
                  <div class="center_prod_box">
                  <div class="product_title"><a href=""><%# Eval("TENSANPHAM") %></a></div>
-                 <div class="product_img"><a href=""><img src="images/<%# Eval("HINHANH") %>" alt="" border="0"
+                 <div class="product_img"><a href='chitietsanpham.aspx?MASANPHAM=<%# Eval("MASANPHAM") %>'><img src="images/<%# Eval("HINHANH") %>" alt="" border="0"
                 width="100px" height="100px" /></a></div>
                  <div class="prod_price"><span class="reduce"><%# Eval("DONGIA") %></span> <span
                 class="price">270$</span></div>

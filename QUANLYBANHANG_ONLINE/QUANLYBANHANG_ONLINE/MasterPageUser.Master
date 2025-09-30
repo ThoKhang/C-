@@ -67,7 +67,7 @@
          <li class="divider"></li>
          <li><a href="#" class="nav3">Specials</a></li>
          <li class="divider"></li>
-         <li><a href="#" class="nav4">My account</a></li>
+         <li><a href="pageLOGIN.aspx" class="nav4">My account</a></li>
          <li class="divider"></li>
          <li><a href="#" class="nav4">Sign Up</a></li>
          <li class="divider"></li>
