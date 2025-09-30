@@ -19,6 +19,16 @@ namespace QUANLYBANHANG_ONLINE.ADMIN.GUI
             int k = businesslogic.InsertRecordSanPham();
             businesslogic.SetValueGridViewSanPham();
         }
+        protected void btnUpdate_Click(object sender, EventArgs e)
+        {
+            int k = businesslogic.UpdateRecordSanPham();
+            businesslogic.SetValueGridViewSanPham();
+        }
+        protected void btnDelete_Click(object sender, EventArgs e)
+        {
+            int k = businesslogic.DeleteRecordSanPham();
+            businesslogic.SetValueGridViewSanPham();
+        }
         protected void txtMOTA_TextChanged(object sender, EventArgs e)
         {
             // Ví dụ: đọc giá trị mô tả

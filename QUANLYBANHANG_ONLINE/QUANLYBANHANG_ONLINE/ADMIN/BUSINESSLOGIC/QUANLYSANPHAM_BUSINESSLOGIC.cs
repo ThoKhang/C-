@@ -71,5 +71,58 @@ namespace QUANLYBANHANG_ONLINE.ADMIN.BUSINESSLOGIC
             int k = processdata.InsertRecord(list);
             return k;
         }
+        public int UpdateRecordSanPham()
+        {
+            // lấy MASANPHAM từ textbox trong page
+            int masanpham = int.Parse(((TextBox)pageSANPHAM.FindControl("txtMASANPHAM")).Text);
+
+            // Upload lại ảnh nếu có
+            String file = UploadAnh();
+
+            object madanhmuc = ((DropDownList)pageSANPHAM.FindControl("drpDANHMUC")).SelectedValue;
+            object tensanpham = ((TextBox)pageSANPHAM.FindControl("txtTENSANPHAM")).Text;
+            object mota = ((TextBox)pageSANPHAM.FindControl("txtMOTA")).Text;
+            object soluong = ((TextBox)pageSANPHAM.FindControl("txtSOLUONG")).Text;
+            object dongia = ((TextBox)pageSANPHAM.FindControl("txtDONGIA")).Text;
+
+            Dictionary<string, object> list = new Dictionary<string, object>();
+            list.Add("@MASANPHAM", masanpham);
+
+            // Chỉ add vào dictionary nếu người dùng nhập giá trị mới
+            if (!string.IsNullOrWhiteSpace(tensanpham.ToString()))
+                list.Add("@TENSANPHAM", tensanpham);
+
+            if (!string.IsNullOrWhiteSpace(dongia.ToString()))
+                list.Add("@DONGIA", dongia);
+
+            if (!string.IsNullOrWhiteSpace(soluong.ToString()))
+                list.Add("@SOLUONG", soluong);
+
+            if (!string.IsNullOrWhiteSpace(mota.ToString()))
+                list.Add("@MOTA", mota);
+
+            if (!string.IsNullOrWhiteSpace(madanhmuc.ToString()))
+                list.Add("@MADANHMUC", madanhmuc);
+
+            if (!string.IsNullOrWhiteSpace(file))
+                list.Add("@HINHANH", file);
+
+            int k = processdata.UpdateRecord(list);
+            return k;
+        }
+
+
+        public int DeleteRecordSanPham()
+        {
+            int masanpham = int.Parse(((TextBox)pageSANPHAM.FindControl("txtMASANPHAM")).Text);
+
+            Dictionary<String, Object> list = new Dictionary<string, object>();
+            list.Add("@MASANPHAM", masanpham);
+
+            int k = processdata.DeleteRecord(list);
+            return k;
+        }
+
+
     }
 }

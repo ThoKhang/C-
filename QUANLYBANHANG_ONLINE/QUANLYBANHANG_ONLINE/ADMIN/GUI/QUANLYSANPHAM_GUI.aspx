@@ -71,8 +71,8 @@
                 <tr>
                     <td colspan="4" class="buttons">
                         <asp:Button ID="btnInsert" runat="server" Text="Thêm mới" OnClick="btnInsert_Click" />
-                        <asp:Button ID="btnDelete" runat="server" Text="Xóa" CausesValidation="false" />
-                        <asp:Button ID="btnUpdate" runat="server" Text="Sửa" />
+                        <asp:Button ID="btnDelete" runat="server" Text="Xóa"  OnClick="btnDelete_Click" CausesValidation="false" />
+                        <asp:Button ID="btnUpdate" runat="server" Text="Sửa" OnClick="btnUpdate_Click" />
                     </td>
                 </tr>
 
