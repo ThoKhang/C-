@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D0A130AA-F366-49AE-BB30-EC277F19A500}|QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c-\\quanlybanhang_online\\quanlybanhang_online\\admin\\businesslogic\\quanlysanpham_businesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0A130AA-F366-49AE-BB30-EC277F19A500}|QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE.csproj|solutionrelative:quanlybanhang_online\\admin\\businesslogic\\quanlysanpham_businesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A130AA-F366-49AE-BB30-EC277F19A500}|QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c-\\quanlybanhang_online\\quanlybanhang_online\\admin\\gui\\quanlysanpham_gui.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0A130AA-F366-49AE-BB30-EC277F19A500}|QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE.csproj|solutionrelative:quanlybanhang_online\\admin\\gui\\quanlysanpham_gui.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A130AA-F366-49AE-BB30-EC277F19A500}|QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c-\\quanlybanhang_online\\quanlybanhang_online\\admin\\processdata\\processdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0A130AA-F366-49AE-BB30-EC277F19A500}|QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE.csproj|solutionrelative:quanlybanhang_online\\admin\\processdata\\processdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A130AA-F366-49AE-BB30-EC277F19A500}|QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c-\\quanlybanhang_online\\quanlybanhang_online\\admin\\gui\\quanlysanpham_gui.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D0A130AA-F366-49AE-BB30-EC277F19A500}|QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE.csproj|solutionrelative:quanlybanhang_online\\admin\\gui\\quanlysanpham_gui.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A130AA-F366-49AE-BB30-EC277F19A500}|QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c-\\quanlybanhang_online\\quanlybanhang_online\\admin\\gui\\quanlysanpham_gui.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0A130AA-F366-49AE-BB30-EC277F19A500}|QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE.csproj|solutionrelative:quanlybanhang_online\\admin\\gui\\quanlysanpham_gui.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A130AA-F366-49AE-BB30-EC277F19A500}|QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\quanlybanhang_online\\app_code\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0A130AA-F366-49AE-BB30-EC277F19A500}|QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE.csproj|solutionrelative:quanlybanhang_online\\app_code\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D0A130AA-F366-49AE-BB30-EC277F19A500}|QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\quanlybanhang_online\\chitietsanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{D0A130AA-F366-49AE-BB30-EC277F19A500}|QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE.csproj|solutionrelative:quanlybanhang_online\\chitietsanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
@@ -19,7 +43,7 @@
       "RelativeMoniker": "D:0:0:{D0A130AA-F366-49AE-BB30-EC277F19A500}|QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE.csproj|solutionrelative:quanlybanhang_online\\chitietsanpham.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0A130AA-F366-49AE-BB30-EC277F19A500}|QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c-\\quanlybanhang_online\\quanlybanhang_online\\pagegiohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{D0A130AA-F366-49AE-BB30-EC277F19A500}|QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\quanlybanhang_online\\pagegiohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{D0A130AA-F366-49AE-BB30-EC277F19A500}|QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE.csproj|solutionrelative:quanlybanhang_online\\pagegiohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -53,10 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D0A130AA-F366-49AE-BB30-EC277F19A500}|QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\quanlybanhang_online\\app_code\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0A130AA-F366-49AE-BB30-EC277F19A500}|QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE.csproj|solutionrelative:quanlybanhang_online\\app_code\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0A130AA-F366-49AE-BB30-EC277F19A500}|QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\quanlybanhang_online\\app_code\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0A130AA-F366-49AE-BB30-EC277F19A500}|QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE.csproj|solutionrelative:quanlybanhang_online\\app_code\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0A130AA-F366-49AE-BB30-EC277F19A500}|QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\quanlybanhang_online\\blank.gif||{58961B49-13E0-48C0-9258-13CBC4D40279}",
@@ -100,7 +120,7 @@
         },
         {
           "DockedWidth": 8,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -116,7 +136,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
+              "Title": "QUANLYSANPHAM_GUI.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\ADMIN\\GUI\\QUANLYSANPHAM_GUI.aspx.designer.cs",
+              "RelativeDocumentMoniker": "QUANLYBANHANG_ONLINE\\ADMIN\\GUI\\QUANLYSANPHAM_GUI.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\ADMIN\\GUI\\QUANLYSANPHAM_GUI.aspx.designer.cs",
+              "RelativeToolTip": "QUANLYBANHANG_ONLINE\\ADMIN\\GUI\\QUANLYSANPHAM_GUI.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T08:19:16.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QUANLYSANPHAM_GUI.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\ADMIN\\GUI\\QUANLYSANPHAM_GUI.aspx.cs",
+              "RelativeDocumentMoniker": "QUANLYBANHANG_ONLINE\\ADMIN\\GUI\\QUANLYSANPHAM_GUI.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\ADMIN\\GUI\\QUANLYSANPHAM_GUI.aspx.cs",
+              "RelativeToolTip": "QUANLYBANHANG_ONLINE\\ADMIN\\GUI\\QUANLYSANPHAM_GUI.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T08:01:34.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PROCESSDATA.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\ADMIN\\PROCESSDATA\\PROCESSDATA.cs",
+              "RelativeDocumentMoniker": "QUANLYBANHANG_ONLINE\\ADMIN\\PROCESSDATA\\PROCESSDATA.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\ADMIN\\PROCESSDATA\\PROCESSDATA.cs",
+              "RelativeToolTip": "QUANLYBANHANG_ONLINE\\ADMIN\\PROCESSDATA\\PROCESSDATA.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:57:35.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QUANLYSANPHAM_BUSINESSLOGIC.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\ADMIN\\BUSINESSLOGIC\\QUANLYSANPHAM_BUSINESSLOGIC.cs",
+              "RelativeDocumentMoniker": "QUANLYBANHANG_ONLINE\\ADMIN\\BUSINESSLOGIC\\QUANLYSANPHAM_BUSINESSLOGIC.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\ADMIN\\BUSINESSLOGIC\\QUANLYSANPHAM_BUSINESSLOGIC.cs",
+              "RelativeToolTip": "QUANLYBANHANG_ONLINE\\ADMIN\\BUSINESSLOGIC\\QUANLYSANPHAM_BUSINESSLOGIC.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:56:53.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QUANLYSANPHAM_GUI.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\ADMIN\\GUI\\QUANLYSANPHAM_GUI.aspx",
+              "RelativeDocumentMoniker": "QUANLYBANHANG_ONLINE\\ADMIN\\GUI\\QUANLYSANPHAM_GUI.aspx",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\ADMIN\\GUI\\QUANLYSANPHAM_GUI.aspx",
+              "RelativeToolTip": "QUANLYBANHANG_ONLINE\\ADMIN\\GUI\\QUANLYSANPHAM_GUI.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-30T07:24:43.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "pageLOGIN.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\pageLOGIN.aspx.cs",
               "RelativeDocumentMoniker": "QUANLYBANHANG_ONLINE\\pageLOGIN.aspx.cs",
@@ -129,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "pageLOGIN.aspx",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\pageLOGIN.aspx",
               "RelativeDocumentMoniker": "QUANLYBANHANG_ONLINE\\pageLOGIN.aspx",
@@ -142,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "blank.gif",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\blank.gif",
               "RelativeDocumentMoniker": "QUANLYBANHANG_ONLINE\\blank.gif",
@@ -154,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "pageGIOHANG.aspx.designer.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\pageGIOHANG.aspx.designer.cs",
               "RelativeDocumentMoniker": "QUANLYBANHANG_ONLINE\\pageGIOHANG.aspx.designer.cs",
@@ -167,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "pageGIOHANG.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\pageGIOHANG.aspx.cs",
               "RelativeDocumentMoniker": "QUANLYBANHANG_ONLINE\\pageGIOHANG.aspx.cs",
@@ -180,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "pageGIOHANG.aspx",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\pageGIOHANG.aspx",
               "RelativeDocumentMoniker": "QUANLYBANHANG_ONLINE\\pageGIOHANG.aspx",
@@ -193,20 +278,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "CART.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\App_Code\\CART.cs",
               "RelativeDocumentMoniker": "QUANLYBANHANG_ONLINE\\App_Code\\CART.cs",
               "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\App_Code\\CART.cs",
               "RelativeToolTip": "QUANLYBANHANG_ONLINE\\App_Code\\CART.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T02:53:44.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "ITEM.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\App_Code\\ITEM.cs",
               "RelativeDocumentMoniker": "QUANLYBANHANG_ONLINE\\App_Code\\ITEM.cs",
@@ -219,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "MasterPageUser.Master.designer.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\MasterPageUser.Master.designer.cs",
               "RelativeDocumentMoniker": "QUANLYBANHANG_ONLINE\\MasterPageUser.Master.designer.cs",
@@ -232,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "MasterPageUser.Master.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\MasterPageUser.Master.cs",
               "RelativeDocumentMoniker": "QUANLYBANHANG_ONLINE\\MasterPageUser.Master.cs",
@@ -245,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "CHITIETSANPHAM.aspx",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\CHITIETSANPHAM.aspx",
               "RelativeDocumentMoniker": "QUANLYBANHANG_ONLINE\\CHITIETSANPHAM.aspx",
@@ -258,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "CHITIETSANPHAM.aspx.designer.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\CHITIETSANPHAM.aspx.designer.cs",
               "RelativeDocumentMoniker": "QUANLYBANHANG_ONLINE\\CHITIETSANPHAM.aspx.designer.cs",
@@ -271,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "CHITIETSANPHAM.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\CHITIETSANPHAM.aspx.cs",
               "RelativeDocumentMoniker": "QUANLYBANHANG_ONLINE\\CHITIETSANPHAM.aspx.cs",
@@ -284,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "DANHSACHSANPHAM.aspx.designer.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\DANHSACHSANPHAM.aspx.designer.cs",
               "RelativeDocumentMoniker": "QUANLYBANHANG_ONLINE\\DANHSACHSANPHAM.aspx.designer.cs",
@@ -297,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "XULYDULIEU.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\App_Code\\XULYDULIEU.cs",
               "RelativeDocumentMoniker": "QUANLYBANHANG_ONLINE\\App_Code\\XULYDULIEU.cs",
@@ -310,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "DANHSACHSANPHAM.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\DANHSACHSANPHAM.aspx.cs",
               "RelativeDocumentMoniker": "QUANLYBANHANG_ONLINE\\DANHSACHSANPHAM.aspx.cs",
@@ -323,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "DANHSACHSANPHAM.aspx",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\DANHSACHSANPHAM.aspx",
               "RelativeDocumentMoniker": "QUANLYBANHANG_ONLINE\\DANHSACHSANPHAM.aspx",
@@ -336,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "MasterPageUser.Master",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\QUANLYBANHANG_ONLINE\\QUANLYBANHANG_ONLINE\\MasterPageUser.Master",
               "RelativeDocumentMoniker": "QUANLYBANHANG_ONLINE\\MasterPageUser.Master",

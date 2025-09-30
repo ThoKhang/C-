@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="ADMIN\GUI\QUANLYSANPHAM_GUI.aspx" />
     <Content Include="blank.gif" />
     <Content Include="CHITIETSANPHAM.aspx" />
     <Content Include="contact.html" />
@@ -150,6 +151,15 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ADMIN\BUSINESSLOGIC\QUANLYSANPHAM_BUSINESSLOGIC.cs" />
+    <Compile Include="ADMIN\GUI\QUANLYSANPHAM_GUI.aspx.cs">
+      <DependentUpon>QUANLYSANPHAM_GUI.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ADMIN\GUI\QUANLYSANPHAM_GUI.aspx.designer.cs">
+      <DependentUpon>QUANLYSANPHAM_GUI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\PROCESSDATA\PROCESSDATA.cs" />
     <Compile Include="App_Code\ITEM.cs" />
     <Compile Include="App_Code\CART.cs" />
     <Compile Include="CHITIETSANPHAM.aspx.cs">
