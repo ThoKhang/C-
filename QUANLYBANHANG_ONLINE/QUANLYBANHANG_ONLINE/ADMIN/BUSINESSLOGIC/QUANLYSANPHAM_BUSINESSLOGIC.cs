@@ -1,18 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using QUANLYBANHANG_ONLINE.ADMIN;
-using System.Web.UI.WebControls;
-using System.Web.UI;
+﻿using QUANLYBANHANG_ONLINE.ADMIN;
 using QUANLYBANHANG_ONLINE.ADMIN.PROCESSDATA;
+using System;
+using System.Data.SqlClient;
+using System.Web.UI;
+using System.Web.UI.WebControls;
 
 namespace QUANLYBANHANG_ONLINE.ADMIN.BUSINESSLOGIC
 {
     public class QUANLYSANPHAM_BUSINESSLOGIC
     {
-        QUANLYSANPHAM_PROCESSDATA processdata;
-        Page pageSANPHAM;
+        private QUANLYSANPHAM_PROCESSDATA processdata;
+        private Page pageSANPHAM;
 
         public QUANLYSANPHAM_BUSINESSLOGIC(Page page)
         {
@@ -20,109 +18,94 @@ namespace QUANLYBANHANG_ONLINE.ADMIN.BUSINESSLOGIC
             processdata = new QUANLYSANPHAM_PROCESSDATA();
         }
 
+        // Bind DropDownList danh mục
         public void SetValueDropdownlistDanhMuc()
         {
-            ((DropDownList)pageSANPHAM.FindControl("drpDANHMUC")).DataSource =
-                processdata.getTableDanhmuc();
-            ((DropDownList)pageSANPHAM.FindControl("drpDANHMUC")).DataTextField = "TENDANHMUC";
-            ((DropDownList)pageSANPHAM.FindControl("drpDANHMUC")).DataValueField = "MADANHMUC";
-            ((DropDownList)pageSANPHAM.FindControl("drpDANHMUC")).DataBind();
+            DropDownList drp = (DropDownList)pageSANPHAM.FindControl("drpDANHMUC");
+            drp.DataSource = processdata.getTableDanhmuc();
+            drp.DataTextField = "TENDANHMUC";
+            drp.DataValueField = "MADANHMUC";
+            drp.DataBind();
         }
 
+        // Bind GridView sản phẩm
         public void SetValueGridViewSanPham()
         {
-            ((GridView)pageSANPHAM.FindControl("grvSANPHAM")).DataSource =
-                processdata.getTableSanPham();
-            ((GridView)pageSANPHAM.FindControl("grvSANPHAM")).DataBind();
+            GridView grv = (GridView)pageSANPHAM.FindControl("grvSANPHAM");
+            grv.DataSource = processdata.getTableSanPham();
+            grv.DataBind();
         }
 
-        public String UploadAnh()
+        // Upload ảnh và trả về tên file
+        public string UploadAnh()
         {
-            FileUpload fileupload = ((FileUpload)pageSANPHAM.FindControl("FileANHSANPHAM"));
-            String fileName = null;
-
+            FileUpload fileupload = (FileUpload)pageSANPHAM.FindControl("FileANHSANPHAM");
+            string fileName = null;
             if (fileupload.HasFile)
             {
                 fileName = fileupload.FileName;
-                String path = this.pageSANPHAM.Server.MapPath("\\IMAGES\\");
+                string path = pageSANPHAM.Server.MapPath("~/images/");
                 fileupload.PostedFile.SaveAs(path + fileName);
             }
             return fileName;
         }
 
+        // Thêm sản phẩm mới
         public int InsertRecordSanPham()
         {
-            String file = UploadAnh();
-            object madanhmuc =
-                ((DropDownList)pageSANPHAM.FindControl("drpDANHMUC")).SelectedValue;
-            object tensanpham = ((TextBox)pageSANPHAM.FindControl("txtTENSANPHAM")).Text;
-            object mota = ((TextBox)pageSANPHAM.FindControl("txtMOTA")).Text;
-            object soluong = ((TextBox)pageSANPHAM.FindControl("txtSOLUONG")).Text;
-            object dongia = ((TextBox)pageSANPHAM.FindControl("txtDONGIA")).Text;
+            string file = UploadAnh();
+            DropDownList drp = (DropDownList)pageSANPHAM.FindControl("drpDANHMUC");
+            TextBox txtTen = (TextBox)pageSANPHAM.FindControl("txtTENSANPHAM");
+            TextBox txtMoTa = (TextBox)pageSANPHAM.FindControl("txtMOTA");
+            TextBox txtSoLuong = (TextBox)pageSANPHAM.FindControl("txtSOLUONG");
+            TextBox txtDonGia = (TextBox)pageSANPHAM.FindControl("txtDONGIA");
 
-            Dictionary<String, Object> list = new Dictionary<string, object>();
-            list.Add("@TENSANPHAM", tensanpham);
-            list.Add("@DONGIA", dongia);
-            list.Add("@SOLUONG", soluong);
-            list.Add("@HINHANH", file);
-            list.Add("@MOTA", mota);
-            list.Add("@MADANHMUC", madanhmuc);
+            var list = new System.Collections.Generic.Dictionary<string, object>
+            {
+                { "@TENSANPHAM", txtTen.Text.Trim() },
+                { "@DONGIA", decimal.Parse(txtDonGia.Text.Trim()) },
+                { "@SOLUONG", int.Parse(txtSoLuong.Text.Trim()) },
+                { "@HINHANH", file },
+                { "@MOTA", txtMoTa.Text.Trim() },
+                { "@MADANHMUC", int.Parse(drp.SelectedValue) }
+            };
 
-            int k = processdata.InsertRecord(list);
-            return k;
+            return processdata.InsertRecord(list);
         }
-        public int UpdateRecordSanPham()
+
+        // Sửa thông tin sản phẩm
+        public int UpdateRecordSanPham(int maSanPham, string tenSanPham, decimal donGia, int soLuong, string hinhAnh, string moTa, int maDanhMuc)
         {
-            // lấy MASANPHAM từ textbox trong page
-            int masanpham = int.Parse(((TextBox)pageSANPHAM.FindControl("txtMASANPHAM")).Text);
-
-            // Upload lại ảnh nếu có
-            String file = UploadAnh();
-
-            object madanhmuc = ((DropDownList)pageSANPHAM.FindControl("drpDANHMUC")).SelectedValue;
-            object tensanpham = ((TextBox)pageSANPHAM.FindControl("txtTENSANPHAM")).Text;
-            object mota = ((TextBox)pageSANPHAM.FindControl("txtMOTA")).Text;
-            object soluong = ((TextBox)pageSANPHAM.FindControl("txtSOLUONG")).Text;
-            object dongia = ((TextBox)pageSANPHAM.FindControl("txtDONGIA")).Text;
-
-            Dictionary<string, object> list = new Dictionary<string, object>();
-            list.Add("@MASANPHAM", masanpham);
-
-            // Chỉ add vào dictionary nếu người dùng nhập giá trị mới
-            if (!string.IsNullOrWhiteSpace(tensanpham.ToString()))
-                list.Add("@TENSANPHAM", tensanpham);
-
-            if (!string.IsNullOrWhiteSpace(dongia.ToString()))
-                list.Add("@DONGIA", dongia);
-
-            if (!string.IsNullOrWhiteSpace(soluong.ToString()))
-                list.Add("@SOLUONG", soluong);
-
-            if (!string.IsNullOrWhiteSpace(mota.ToString()))
-                list.Add("@MOTA", mota);
-
-            if (!string.IsNullOrWhiteSpace(madanhmuc.ToString()))
-                list.Add("@MADANHMUC", madanhmuc);
-
-            if (!string.IsNullOrWhiteSpace(file))
-                list.Add("@HINHANH", file);
-
-            int k = processdata.UpdateRecord(list);
-            return k;
+            try
+            {
+                SqlParameter[] pr = new SqlParameter[]
+                                {
+                    new SqlParameter("@MASANPHAM", maSanPham),
+                    new SqlParameter("@TENSANPHAM", tenSanPham),
+                    new SqlParameter("@DONGIA", donGia),
+                    new SqlParameter("@SOLUONG", soLuong),
+                    new SqlParameter("@HINHANH", hinhAnh),
+                    new SqlParameter("@MOTA", moTa),
+                    new SqlParameter("@MADANHMUC", maDanhMuc)
+                                };
+                XULYDULIEU xldl = new XULYDULIEU();
+                return xldl.ExeCute("psUpdateRecordSANPHAM", pr);
+            }
+            catch (Exception ex)
+            {
+                return 0;
+            }
         }
-
-
-        public int DeleteRecordSanPham()
+        public int DeleteRecordSanPham(int maSanPham)
         {
-            int masanpham = int.Parse(((TextBox)pageSANPHAM.FindControl("txtMASANPHAM")).Text);
+            SqlParameter[] pr = new SqlParameter[]
+            {
+                new SqlParameter("@MASANPHAM", maSanPham)
+            };
 
-            Dictionary<String, Object> list = new Dictionary<string, object>();
-            list.Add("@MASANPHAM", masanpham);
-
-            int k = processdata.DeleteRecord(list);
-            return k;
+            XULYDULIEU xldl = new XULYDULIEU();
+            return xldl.ExeCute("psDeleteRecordSANPHAM", pr);
         }
-
 
     }
 }

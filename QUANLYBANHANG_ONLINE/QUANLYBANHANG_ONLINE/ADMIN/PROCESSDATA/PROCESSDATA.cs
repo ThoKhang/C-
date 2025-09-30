@@ -1,89 +1,61 @@
-﻿    using QUANLYBANHANG_ONLINE;
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Web;
-    using System.Data;
-    using System.Data.SqlClient;
-    using System.Collections;
+﻿using QUANLYBANHANG_ONLINE; // dùng namespace của XULYDULIEU
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Data.SqlClient;
+using System.Linq;
 
-    namespace QUANLYBANHANG_ONLINE.ADMIN.PROCESSDATA
+
+namespace QUANLYBANHANG_ONLINE.ADMIN.PROCESSDATA
+{
+    public class QUANLYSANPHAM_PROCESSDATA
     {
-        public class QUANLYSANPHAM_PROCESSDATA
+        private XULYDULIEU xulydulieu;
+
+        public QUANLYSANPHAM_PROCESSDATA()
         {
-            XULYDULIEU xulydulieu;
+            xulydulieu = new XULYDULIEU(); // KHÔNG dùng App_Code
+        }
 
-            public QUANLYSANPHAM_PROCESSDATA()
+        public DataTable getTableDanhmuc()
+        {
+            SqlParameter[] pr = { new SqlParameter("@MADANHMUC", DBNull.Value) };
+            return xulydulieu.getTable("psGetTableDANHMUC", pr);
+        }
+
+        public DataTable getTableSanPham(int? maSanPham = null)
+        {
+            // Nếu maSanPham = null → truyền DBNull.Value
+            SqlParameter[] pr =
             {
-                xulydulieu = new XULYDULIEU();
-            }
+        new SqlParameter("@MASANPHAM", (object)maSanPham ?? DBNull.Value)
+    };
+            return xulydulieu.getTable("psGetTableSANPHAM", pr);
+        }
 
-            public DataTable getTableDanhmuc()
-            {
-                SqlParameter[] pr = new SqlParameter[1];
-                pr[0] = new SqlParameter("@MADANHMUC", DBNull.Value);
-                return xulydulieu.getTable("psGetTableDANHMUC", pr);
-            }
 
-            public DataTable getTableSanPham()
-            {
-                SqlParameter[] pr = new SqlParameter[1];
-                pr[0] = new SqlParameter("@MASANPHAM", DBNull.Value);
-                return xulydulieu.getTable("psGetTableSANPHAM", pr);
-            }
+        public int InsertRecord(Dictionary<string, object> list)
+        {
+            var pr = CreateSqlParameters(list);
+            return xulydulieu.ExeCute("psInsertRecordSANPHAM", pr);
+        }
 
-            public int InsertRecord(Dictionary<String, Object> List)
-            {
-                SqlParameter[] pr = new SqlParameter[List.Count];
-                for (int i = 0; i < List.Count; i++)
-                {
-                    SqlParameter param;
-                    if (List.ElementAt(i).Value != null)
-                        param = new SqlParameter(List.ElementAt(i).Key, List.ElementAt(i).Value);
-                    else
-                        param = new SqlParameter(List.ElementAt(i).Key, DBNull.Value);
+        public int UpdateRecord(Dictionary<string, object> list)
+        {
+            var pr = CreateSqlParameters(list);
+            return xulydulieu.ExeCute("psUpdateRecordSANPHAM", pr);
+        }
 
-                    pr[i] = param;
-                }
+        public int DeleteRecord(Dictionary<string, object> list)
+        {
+            var pr = CreateSqlParameters(list);
+            return xulydulieu.ExeCute("psDeleteRecordSANPHAM", pr);
+        }
 
-                int k = xulydulieu.ExeCute("psInsertRecordSANPHAM", pr);
-                return k;
-            }
-
-            public int UpdateRecord(Dictionary<String, Object> List)
-            {
-                SqlParameter[] pr = new SqlParameter[List.Count];
-                for (int i = 0; i < List.Count; i++)
-                {
-                    SqlParameter param;
-                    if (List.ElementAt(i).Value != null)
-                        param = new SqlParameter(List.ElementAt(i).Key, List.ElementAt(i).Value);
-                    else
-                        param = new SqlParameter(List.ElementAt(i).Key, DBNull.Value);
-
-                    pr[i] = param;
-                }
-
-                int k = xulydulieu.ExeCute("psUpdateRecordSANPHAM", pr);
-                return k;
-            }
-
-            public int DeleteRecord(Dictionary<String, Object> List)
-            {
-                SqlParameter[] pr = new SqlParameter[List.Count];
-                for (int i = 0; i < List.Count; i++)
-                {
-                    SqlParameter param;
-                    if (List.ElementAt(i).Value != null)
-                        param = new SqlParameter(List.ElementAt(i).Key, List.ElementAt(i).Value);
-                    else
-                        param = new SqlParameter(List.ElementAt(i).Key, DBNull.Value);
-
-                    pr[i] = param;
-                }
-
-                int k = xulydulieu.ExeCute("psDeleteRecordSANPHAM", pr);
-                return k;
-            }
+        // Hàm helper tạo SqlParameter từ Dictionary
+        private SqlParameter[] CreateSqlParameters(Dictionary<string, object> list)
+        {
+            return list.Select(kv => new SqlParameter(kv.Key, kv.Value ?? DBNull.Value)).ToArray();
         }
     }
+}
