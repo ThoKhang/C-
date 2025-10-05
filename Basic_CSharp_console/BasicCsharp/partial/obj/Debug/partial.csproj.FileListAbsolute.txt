@@ -1,0 +1,7 @@
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\partial\bin\Debug\partial.exe.config
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\partial\bin\Debug\partial.exe
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\partial\bin\Debug\partial.pdb
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\partial\obj\Debug\partial.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\partial\obj\Debug\partial.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\partial\obj\Debug\partial.exe
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\partial\obj\Debug\partial.pdb

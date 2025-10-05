@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using static System.Console;
+using static System.Math;
 namespace NamespaceAndPartical
 {
     internal class Program
@@ -12,6 +13,8 @@ namespace NamespaceAndPartical
         {
             class1.XinChao();
             Abc.class2.XinChao();
+            //Phương thức tĩnh 
+            WriteLine(PI);
         }
     }
 }
