@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodAndFunction", "Method
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringAndStringbuilder", "StringAndStringbuilder\StringAndStringbuilder.csproj", "{6053DDF4-E270-4F2E-9179-76622FF25F0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeThua", "KeThua\KeThua.csproj", "{A6267EC9-6FC2-4541-BABA-8ED1F622FCB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{6053DDF4-E270-4F2E-9179-76622FF25F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6053DDF4-E270-4F2E-9179-76622FF25F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6053DDF4-E270-4F2E-9179-76622FF25F0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6267EC9-6FC2-4541-BABA-8ED1F622FCB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6267EC9-6FC2-4541-BABA-8ED1F622FCB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6267EC9-6FC2-4541-BABA-8ED1F622FCB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6267EC9-6FC2-4541-BABA-8ED1F622FCB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
