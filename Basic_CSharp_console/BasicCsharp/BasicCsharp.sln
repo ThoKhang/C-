@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringAndStringbuilder", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeThua", "KeThua\KeThua.csproj", "{A6267EC9-6FC2-4541-BABA-8ED1F622FCB0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpKieu", "EpKieu\EpKieu.csproj", "{8D42617F-2C2C-4EBF-BEA1-B46E5150A260}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamespaceAndPartical", "NamespaceAndPartical\NamespaceAndPartical.csproj", "{A1042708-E660-4904-91FE-91A6F2FAC473}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{A6267EC9-6FC2-4541-BABA-8ED1F622FCB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6267EC9-6FC2-4541-BABA-8ED1F622FCB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6267EC9-6FC2-4541-BABA-8ED1F622FCB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D42617F-2C2C-4EBF-BEA1-B46E5150A260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D42617F-2C2C-4EBF-BEA1-B46E5150A260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D42617F-2C2C-4EBF-BEA1-B46E5150A260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D42617F-2C2C-4EBF-BEA1-B46E5150A260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1042708-E660-4904-91FE-91A6F2FAC473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1042708-E660-4904-91FE-91A6F2FAC473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1042708-E660-4904-91FE-91A6F2FAC473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1042708-E660-4904-91FE-91A6F2FAC473}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

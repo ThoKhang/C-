@@ -3,15 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A1042708-E660-4904-91FE-91A6F2FAC473}|NamespaceAndPartical\\NamespaceAndPartical.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c-\\basic_csharp_console\\basiccsharp\\namespaceandpartical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1042708-E660-4904-91FE-91A6F2FAC473}|NamespaceAndPartical\\NamespaceAndPartical.csproj|solutionrelative:namespaceandpartical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1042708-E660-4904-91FE-91A6F2FAC473}|NamespaceAndPartical\\NamespaceAndPartical.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c-\\basic_csharp_console\\basiccsharp\\namespaceandpartical\\mynamespace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1042708-E660-4904-91FE-91A6F2FAC473}|NamespaceAndPartical\\NamespaceAndPartical.csproj|solutionrelative:namespaceandpartical\\mynamespace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D42617F-2C2C-4EBF-BEA1-B46E5150A260}|EpKieu\\EpKieu.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c-\\basic_csharp_console\\basiccsharp\\epkieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D42617F-2C2C-4EBF-BEA1-B46E5150A260}|EpKieu\\EpKieu.csproj|solutionrelative:epkieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A6267EC9-6FC2-4541-BABA-8ED1F622FCB0}|KeThua\\KeThua.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c-\\basic_csharp_console\\basiccsharp\\kethua\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6267EC9-6FC2-4541-BABA-8ED1F622FCB0}|KeThua\\KeThua.csproj|solutionrelative:kethua\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6267EC9-6FC2-4541-BABA-8ED1F622FCB0}|KeThua\\KeThua.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c-\\basic_csharp_console\\basiccsharp\\kethua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6267EC9-6FC2-4541-BABA-8ED1F622FCB0}|KeThua\\KeThua.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\kethua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6267EC9-6FC2-4541-BABA-8ED1F622FCB0}|KeThua\\KeThua.csproj|solutionrelative:kethua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6267EC9-6FC2-4541-BABA-8ED1F622FCB0}|KeThua\\KeThua.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\c-\\basic_csharp_console\\basiccsharp\\kethua\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6267EC9-6FC2-4541-BABA-8ED1F622FCB0}|KeThua\\KeThua.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\kethua\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6267EC9-6FC2-4541-BABA-8ED1F622FCB0}|KeThua\\KeThua.csproj|solutionrelative:kethua\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,7 +50,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mynamespace.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\NamespaceAndPartical\\mynamespace.cs",
+              "RelativeDocumentMoniker": "NamespaceAndPartical\\mynamespace.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\NamespaceAndPartical\\mynamespace.cs",
+              "RelativeToolTip": "NamespaceAndPartical\\mynamespace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T16:06:57.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\NamespaceAndPartical\\Program.cs",
+              "RelativeDocumentMoniker": "NamespaceAndPartical\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\NamespaceAndPartical\\Program.cs",
+              "RelativeToolTip": "NamespaceAndPartical\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T16:01:31.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\EpKieu\\Program.cs",
+              "RelativeDocumentMoniker": "EpKieu\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\EpKieu\\Program.cs",
+              "RelativeToolTip": "EpKieu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:58:20.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "cat.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\KeThua\\cat.cs",
               "RelativeDocumentMoniker": "KeThua\\cat.cs",
@@ -46,12 +97,11 @@
               "RelativeToolTip": "KeThua\\cat.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T15:02:22.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T15:02:22.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "animal.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\KeThua\\animal.cs",
               "RelativeDocumentMoniker": "KeThua\\animal.cs",
@@ -64,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\C-\\Basic_CSharp_console\\BasicCsharp\\KeThua\\Program.cs",
               "RelativeDocumentMoniker": "KeThua\\Program.cs",
@@ -72,8 +122,7 @@
               "RelativeToolTip": "KeThua\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T14:57:57.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T14:57:57.257Z"
             }
           ]
         },
