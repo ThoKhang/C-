@@ -1,0 +1,7 @@
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\Tuan3OjCsharp\Tuan3OjCsharp\bin\Debug\Tuan3OjCsharp.exe.config
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\Tuan3OjCsharp\Tuan3OjCsharp\bin\Debug\Tuan3OjCsharp.exe
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\Tuan3OjCsharp\Tuan3OjCsharp\bin\Debug\Tuan3OjCsharp.pdb
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\Tuan3OjCsharp\Tuan3OjCsharp\obj\Debug\Tuan3OjCsharp.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\Tuan3OjCsharp\Tuan3OjCsharp\obj\Debug\Tuan3OjCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\Tuan3OjCsharp\Tuan3OjCsharp\obj\Debug\Tuan3OjCsharp.exe
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\Tuan3OjCsharp\Tuan3OjCsharp\obj\Debug\Tuan3OjCsharp.pdb

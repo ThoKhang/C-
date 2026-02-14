@@ -1,0 +1,7 @@
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\KeThua\bin\Debug\KeThua.exe.config
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\KeThua\bin\Debug\KeThua.exe
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\KeThua\bin\Debug\KeThua.pdb
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\KeThua\obj\Debug\KeThua.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\KeThua\obj\Debug\KeThua.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\KeThua\obj\Debug\KeThua.exe
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\KeThua\obj\Debug\KeThua.pdb

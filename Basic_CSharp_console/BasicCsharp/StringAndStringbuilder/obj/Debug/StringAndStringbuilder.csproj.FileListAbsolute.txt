@@ -1,0 +1,7 @@
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\StringAndStringbuilder\bin\Debug\StringAndStringbuilder.exe.config
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\StringAndStringbuilder\bin\Debug\StringAndStringbuilder.exe
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\StringAndStringbuilder\bin\Debug\StringAndStringbuilder.pdb
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\StringAndStringbuilder\obj\Debug\StringAndStringbuilder.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\StringAndStringbuilder\obj\Debug\StringAndStringbuilder.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\StringAndStringbuilder\obj\Debug\StringAndStringbuilder.exe
+C:\Users\Admin\OneDrive\Máy tính\C-\Basic_CSharp_console\BasicCsharp\StringAndStringbuilder\obj\Debug\StringAndStringbuilder.pdb
